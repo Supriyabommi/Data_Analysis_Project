@@ -8,11 +8,11 @@ Technologies: Python (pandas, matplotlib, seaborn), Jupyter, R
 
 Key Insights:
 
-Dropout rates increase with education level
-Female students show slightly higher out-of-school rates globally
-Disparities are especially concentrated in African countries
-Found no significant gender bias in overall rates (p = 0.319)
-Found statistically significant differences in out-of-school rates across primary, lower secondary, and upper secondary levels (p < 0.001)
+Dropout rates increase with education level. 
+Female students show slightly higher out-of-school rates globally. 
+Disparities are especially concentrated in African countries. 
+Found no significant gender bias in overall rates (p = 0.319). 
+Found statistically significant differences in out-of-school rates across primary, lower secondary, and upper secondary levels (p < 0.001). 
 
 Conclusion:
 While access to primary education has improved globally, disparities persist at the secondary level, especially for girls and in low-income regions.
